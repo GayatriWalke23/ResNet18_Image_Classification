@@ -27,6 +27,7 @@ The ResNet-18 architecture consists of the following key components:
   - Validation Loss: 0.3355
 The optimized model shows significant improvements in validation accuracy and loss compared to the non-optimized model.
 
-Conclusion
+## Conclusion
+
 The implementation of the ResNet-18 architecture with optimization techniques has led to improved performance in image classification tasks. The model demonstrates better generalization and higher accuracy on unseen data, showcasing the effectiveness of ResNet architectures in deep learning applications.
 
