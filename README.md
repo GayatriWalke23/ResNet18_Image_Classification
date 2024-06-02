@@ -31,3 +31,12 @@ The optimized model shows significant improvements in validation accuracy and lo
 
 The implementation of the ResNet-18 architecture with optimization techniques has led to improved performance in image classification tasks. The model demonstrates better generalization and higher accuracy on unseen data, showcasing the effectiveness of ResNet architectures in deep learning applications.
 
+## Code
+
+You can find the code for the entire project in the ResNet18_Image_Classification.ipynb file.
+## Detailed Report
+
+A comprehensive report detailing the model architecture, training process, evaluation metrics, and performance graphs is available in `report.pdf`.
+
+For questions or feedback, please [email](mailto:gayatriwalke@gmail.com).
+
